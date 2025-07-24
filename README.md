@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @ahmedfatouhhh
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning embedded systems
-- 📫 How to reach me: 
 - email:ahmedfatouh34@gmail.com
 - Phone: +201100800293
 - Linked in: https://www.linkedin.com/in/ahmed-fatouh-27095623b/
